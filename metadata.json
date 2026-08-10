@@ -1,0 +1,6 @@
+{
+  "name": "Screen & Audio Recorder",
+  "description": "Ứng dụng ghi hình màn hình và ghi âm hệ thống/micro trên Windows hỗ trợ lưu MP4/MP3, hẹn giờ ghi, phím tắt tùy chỉnh và tải lên Google Drive.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
